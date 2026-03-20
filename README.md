@@ -2,12 +2,13 @@
 
 ## Arquivos
 
-    "dataset_desafio_tainees_excel.xlsx" = Arquivo de planilha com as formulas
+<ul>
+    <li>"dataset_desafio_tainees_excel.xlsx" = Arquivo de planilha com as formulas</li>
     
-    "dataset_desafio_tainees_excel.xlsx" = Arquivo de planilha usado no codigo
+    <li>"dataset_desafio_tainees_excel.xlsx" = Arquivo de planilha usado no codigo</li>
     
-    "dataset.py" = Arquivo .py do programa
-
+    <li>"dataset.py" = Arquivo .py do programa</li>
+</ul>
 ## Conclusões
 
 ### Estatística Descritiva
